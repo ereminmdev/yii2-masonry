@@ -14,6 +14,7 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "~2.0",
+    "npm-asset/imagesloaded": "^4",
     "npm-asset/masonry-layout": "^4"
   },
   "autoload": {
