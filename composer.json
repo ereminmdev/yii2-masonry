@@ -3,6 +3,7 @@
   "description": "Masonry assert for Yii framework.",
   "keywords": ["yii2","widget","masonry","layout","grid"],
   "homepage": "https://bitbucket.org/ereminmdev/yii2-owlcarousel",
+  "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
