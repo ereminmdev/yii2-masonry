@@ -2,11 +2,11 @@
 
 Masonry widget for Yii framework.
 
-This widget depend on masonry script: http://masonry.desandro.com
+This widget depends on masonry script: http://masonry.desandro.com
 
 ## Install
 
-``composer require ereminmdev/yii2-masonry``
+``composer require --prefer-dist ereminmdev/yii2-masonry``
 
 ## Documentation
 
